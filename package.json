@@ -1,0 +1,12 @@
+{
+  "name": "slack-says",
+  "version": "0.0.1",
+  "description": "A slack integration for saying stuff as people",
+  "main": "index.js",
+  "devDependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "minimist": "^1.2.0",
+    "url": "^0.11.0"
+  }
+}
