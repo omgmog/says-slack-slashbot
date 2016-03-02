@@ -9,3 +9,5 @@ $ node index.js
 This will spin up a server on `:3001`, which you can then configure to receive commands through slack.
 
 ![](https://i.imgur.com/0AS4VGl.png)
+
+![](https://i.imgur.com/2NNrhib.png)
